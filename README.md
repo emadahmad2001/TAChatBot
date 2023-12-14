@@ -1,1 +1,3 @@
 # TAChatBot
+
+The rapid advancements in AI have led to the development of numerous large language models (LLMs) such as OpenAI’s GPT-4, Google’s PaLM, and Falcon by Technology Innovation Institute. Meta AI's recent introduction of the LLaMa 2 family further expands this landscape. This project aims to examine the performance of LLaMa 2 based chatbot in comparison to other leading LLMs. A key focus is exploring the feasibility of fine-tuning these models to compensate for their relatively smaller number of parameters. This research contributes to the discourse on LLMs, and also lays the groundwork for individuals to design and build their own chatbots easily.
